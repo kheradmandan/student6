@@ -11599,11 +11599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students\\Students.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students\\Students.csproj",
       "projectName": "Students",
-      "projectPath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students\\Students.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students\\Students.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -11626,14 +11626,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Domain\\Students.Domain.csproj": {
-              "projectPath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Domain\\Students.Domain.csproj"
+            "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Domain\\Students.Domain.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Domain\\Students.Domain.csproj"
             },
-            "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Persistence\\Students.Persistence.csproj": {
-              "projectPath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Persistence\\Students.Persistence.csproj"
+            "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Persistence\\Students.Persistence.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Persistence\\Students.Persistence.csproj"
             },
-            "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Services\\Students.Services.csproj": {
-              "projectPath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Services\\Students.Services.csproj"
+            "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Services\\Students.Services.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Services\\Students.Services.csproj"
             }
           }
         }

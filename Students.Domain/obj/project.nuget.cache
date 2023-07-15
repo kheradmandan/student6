@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "07G4SVK1XvK+BQ6Ahh2zb0RRoilDZuLVqCHQZUArXP8T3k/f1T5xL6OAnS4idogOXQq03+i31r5jyakDKl34Bg==",
+  "dgSpecHash": "vaY3DwJFQGqsga0Wpx5Jz0ksqUhaSOkKp3DeMN5G1HaVxzQLcEJ6zSGdkDRtDb/gPBYFIIMaUvCGOSSSivoivw==",
   "success": true,
-  "projectFilePath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Domain\\Students.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Domain\\Students.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",

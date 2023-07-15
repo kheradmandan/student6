@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gfXLNLzzYORp3KVID50w2YTS5W1WFAo5SJ/0mtbzWnZCaw7KMBhIG62zSO2ctzzRvYlzccvAC/uYAPuCHsNCqQ==",
+  "dgSpecHash": "b2JeCCItpE47jgnI5fbNRbePxi2yKXCAkOsvcIg0thgjDYIevvMz5seMREmXQMAkaAsflI9fzObK4fZYSFVSxA==",
   "success": true,
-  "projectFilePath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Services\\Students.Services.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Services\\Students.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zg2Qzkuotkt4q8E6BsJgCDmhqwMzif5ybFTkWUeky5MMK7GiYcMx8DxbcIQyAVERmSMWR4Ibn304TkPKqS0rKg==",
+  "dgSpecHash": "5gfChmj16WfSkSC6Pd8yfE+FLLQxDvHM2hXHGL+SxqlJbtnNohldekfbqid7T1IcJOemVYD0bQjRTRKVhorG2A==",
   "success": true,
-  "projectFilePath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students\\Students.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students\\Students.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

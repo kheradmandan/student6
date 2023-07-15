@@ -25,7 +25,27 @@ namespace Students.Areas.AreaStudent.Controllers
             cI_FieldStudentRepository = new CI_FieldStudentRepository(_context);
         }
 
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                if (this.studentRepository != null)
+                {
+                    this.studentRepository.Dispose();
+                    this.studentRepository = null;
+                }
+                if (this.cI_FieldStudentRepository != null)
+                {
+                    this.cI_FieldStudentRepository.Dispose();
+                    this.cI_FieldStudentRepository = null;
+                }
+           
 
+
+            }
+
+            base.Dispose(disposing);
+        }
         // GET: AreaStudent/Students/Create
         public IActionResult Create()
         {

@@ -27,7 +27,25 @@ namespace Students.Areas.Admin.Controllers
             cI_FieldStudentRepository = new CI_FieldStudentRepository(_context);
             userRepository = new UserRepository(_context);
         }
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                if (this.studentRepository != null)
+                {
+                    this.studentRepository.Dispose();
+                    this.studentRepository = null;
+                }
+                if (this.cI_FieldStudentRepository != null)
+                {
+                    this.cI_FieldStudentRepository.Dispose();
+                    this.cI_FieldStudentRepository = null;
+                }
+            
+            }
 
+            base.Dispose(disposing);
+        }
         // GET: Admin/Students
         public async Task<IActionResult> Index()
         {

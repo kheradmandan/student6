@@ -26,6 +26,23 @@ namespace Students.Areas.Admin.Controllers
             userRepository = new UserRepository(_context);
         }
 
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                if (this.teacherRepository != null)
+                {
+                    this.teacherRepository.Dispose();
+                    this.teacherRepository = null;
+                }
+          
+
+            }
+
+            base.Dispose(disposing);
+        }
+
+
         // GET: Admin/Teachers
         public async Task<IActionResult> Index()
         {

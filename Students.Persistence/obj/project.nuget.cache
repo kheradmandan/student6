@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9fhp7cKqdl75WpOGRURzriVxZQ6HsFnJnQhTE2IgIN+/5wVWlgAVzwXi/J732z0+18z8t8/XcWAuvakI3UuuQ==",
+  "dgSpecHash": "NFr29VTWYApSRhJ5/h/w2qDr/uHUWkuxqm6m9CO11D/cy4VbZrMwylW8CTTg5MHjhA2tredcWirGvKh1MXqXLA==",
   "success": true,
-  "projectFilePath": "C:\\D\\back\\toplearn 2020\\mvc\\Students - Copy (12)\\Students.Persistence\\Students.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\last\\Students\\Students.Persistence\\Students.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
